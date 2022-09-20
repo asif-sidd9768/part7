@@ -1,0 +1,9 @@
+.padding-menu-link {
+ padding: 5;
+ text-decoration: none; 
+ color: white
+}
+
+.padding-menu-link:hover {
+  color: gray;
+}
